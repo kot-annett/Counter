@@ -113,8 +113,8 @@
                     </view>
                     <connections>
                         <outlet property="buttonCounter" destination="U5D-QY-p3S" id="dD2-Ge-mk8"/>
+                        <outlet property="counterLabel" destination="Vck-L5-O32" id="9IN-uY-QQn"/>
                         <outlet property="historyTextView" destination="xBU-yM-pLZ" id="3Vg-cn-F2E"/>
-                        <outlet property="label" destination="Vck-L5-O32" id="GUD-NF-oo1"/>
                         <outlet property="minusButton" destination="Ooo-Qb-EFs" id="2FG-Lh-tv0"/>
                         <outlet property="plusButton" destination="PE3-gN-acU" id="6WF-bw-5cO"/>
                         <outlet property="resetButton" destination="5Hq-rd-nzi" id="bIK-J3-Zrj"/>
